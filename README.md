@@ -1,7 +1,7 @@
 # HIT-PowerPoint
 哈尔滨工业大学（哈工大、HIT）PPT模板，可以用于答辩、组会、各种汇报
 
-可以直接从谷歌文档获取，[链接](https://docs.google.com/presentation/d/1j1DfU6KDLTHi5C641akt9azXDU89seq--n6Ij9qVjX4/edit?usp=sharing)
+可以直接从[release](https://github.com/yhao-z/HIT-PowerPoint/releases/tag/v1.0)页面下载源文件
 
 ### 注
 
