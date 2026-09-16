@@ -2,7 +2,9 @@
 哈尔滨工业大学（哈工大、HIT）PPT模板，可以用于答辩、组会、各种汇报
 
 可以直接从[release](https://github.com/yhao-z/HIT-PowerPoint/releases/tag/v1.0)页面下载源文件
-> HTML 演示版本：[HIT-PowerPoint-html](https://github.com/DSQsqblxhq/HIT-PowerPoint-html)，支持浏览器离线放映。
+
+> :rocket:  :rocket:  :rocket: **News**:
+> - **新增 HTML 演示版本**: @DSQsqblxhq 同学制作，方便 AI Agent 接管：[HIT-PowerPoint-html](https://github.com/DSQsqblxhq/HIT-PowerPoint-html)，支持浏览器离线放映。
 
 ### 注
 
